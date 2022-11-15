@@ -43,13 +43,8 @@
 </td>
 </tr>
  <main style="background-color:grey;">
-<b>Также не забываем про мой тик ток:@im.nothing74</b>
-https://iplogger.com/1FdVS4
+<b><a href="https://iplogger.com/1FhNS4">Также не забываем про мой тик ток:@im.nothing74</a></b>
  </main>
 </body>
 </table>
-https://iplogger.com/1FhNS4
-https://iplogger.com/1FhNS4
-https://iplogger.com/1FhNS4
-https://iplogger.com/1FhNS4
 </html>
