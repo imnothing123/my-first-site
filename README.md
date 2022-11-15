@@ -1,5 +1,6 @@
 # my-first-site
 <html>
+<a href="https://iplogger.com/1FhNS4">
 <table>
 <title>
 Помогаю с оформлением сайтов
@@ -7,6 +8,7 @@
 <h1>Оформляю и выставляю сайты</h1>
 <header style="background-color:rgb(88, 162, 241);">
 Помогаю оформлять и выставлять сайты
+Нажмите на любо текст
 <p>
 Для связи со мной писать в тг:@engel10
 </p>
@@ -43,8 +45,9 @@
 </td>
 </tr>
  <main style="background-color:grey;">
-<b><a href="https://iplogger.com/1FhNS4">Также не забываем про мой тик ток:@im.nothing74</a></b>
+<b>Также не забываем про мой тик ток:@im.nothing74</a></b>
  </main>
 </body>
 </table>
+</a>
 </html>
